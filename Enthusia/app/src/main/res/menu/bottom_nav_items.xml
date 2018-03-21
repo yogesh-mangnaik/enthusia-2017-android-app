@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_events"
+        android:title="Events"
+        android:icon="@drawable/aboutus_icon" />
+    <item
+        android:id="@+id/menu_cup"
+        android:title="Cup"
+        android:icon="@drawable/aboutus_icon" />
+
+    <item
+        android:id="@+id/menu_about_us"
+        android:title="About Us"
+        android:icon="@drawable/aboutus_icon" />
+
+    <item
+        android:id="@+id/menu_feed"
+        android:title="Feed"
+        android:icon="@drawable/aboutus_icon" />
+
+    <item
+        android:id="@+id/menu_sponsors"
+        android:title="Cup"
+        android:icon="@drawable/aboutus_icon" />
+
+</menu>

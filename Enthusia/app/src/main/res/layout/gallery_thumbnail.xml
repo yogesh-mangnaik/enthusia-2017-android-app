@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<com.mangnaik.yogesh.enthusia.Utility.SquareLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<org.enthusia.Utility.SquareLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical">
@@ -11,4 +11,4 @@
         android:adjustViewBounds="true"
         android:scaleType="centerCrop" />
 
-</com.mangnaik.yogesh.enthusia.Utility.SquareLayout>
+</org.enthusia.Utility.SquareLayout>

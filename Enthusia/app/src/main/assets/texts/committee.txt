@@ -1,0 +1,43 @@
+Secretary
+#
+Aman Shaikh,Ruhi Dongre,Aditi Sharma
+%
+Treasurers
+#
+Shaunak Soman,Madhav Goradia
+%
+Chief Executives
+#
+Archit Sidhwa,Vedant Patil,Nisha Sabu
+%
+HOD - Sponsorship
+#
+Meet Shah,Shivani Patel,Neel Gada,Shreyashree Chiplunkar
+%
+HOD - Public Relations
+#
+Niharika Jangala,Apeksha Karekar,Ujjwal Patil,Gaurang Karwande,Devang Sankhe
+%
+HOD - Design
+#
+Vignesh Tirukkonda,Mihir Deshpande,Ujwala Shinde,Jenil Gala
+%
+HOD - Marketing
+#
+Adhish Natekar,Mervin Dalmet,Jay Pankaj Desai,Karthik Srinivasan,Sarvadnya Kulkarni
+%
+Media Strategist
+#
+Dipti Kulkarni,
+%
+HOD - Operations
+#
+Mudit Pruthi,Gurleen Singh Oberoi,Saurabh Deshmukh,Divyesh Shah,Shubham Shirore,Yogesh Chincholkar, Ashutosh Phalke 
+%
+HOD - Events
+#
+Mudita Mehta,Tushar Chaudhari,Hrishikesh Hundekari,Abdullah Khan,Maitree Pasad,Saurav Dhakane,Jai Srivastav,Dhananjay Rajput,Sanket Chaudhari,Nikhil Vankayala,Tejas Panchbhai
+%
+Diploma Chief Coordinator
+#
+Krisha Choksi,Vishal Shingte,Sakshi Sangle,Riya Kamble

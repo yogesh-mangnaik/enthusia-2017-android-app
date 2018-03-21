@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ramotion.foldingcell.FoldingCell android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="4dp"
+    android:layout_marginTop="4dp"
+    android:onClick="toggle"
+    android:id="@+id/cell"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:id="@+id/text_container">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="70dp"
+                android:id="@+id/inner_name"
+                android:background="@color/card_color"
+                android:gravity="center_vertical"
+                android:padding="20dp"
+                android:text="Treasurers"
+                android:textColor="#ffffff"
+                android:textSize="16sp" />
+
+        </LinearLayout>
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:id="@+id/outer_name"
+            android:background="@color/card_color"
+            android:gravity="center_vertical"
+            android:padding="20dp"
+            android:text="Treasurers"
+            android:textColor="#ffffff"
+            android:textSize="16sp" />
+    </FrameLayout>
+</com.ramotion.foldingcell.FoldingCell>
